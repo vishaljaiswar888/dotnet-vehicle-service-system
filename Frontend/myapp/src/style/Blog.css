@@ -1,0 +1,30 @@
+.blog-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .blog-heading {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .blog-card-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  
+  .blog-card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-decoration: none;
+    color: #333;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .blog-card:hover {
+    background-color: #e0e0e0;
+  }
+  
