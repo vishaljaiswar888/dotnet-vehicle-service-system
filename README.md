@@ -4,7 +4,6 @@
 ![Screenshot (575)](https://github.com/vishaljaiswar888/dotnet-vehicle-service-system/assets/102510153/59560021-ec30-4ea0-98b9-b0c652483041)
 ![Screenshot (576)](https://github.com/vishaljaiswar888/dotnet-vehicle-service-system/assets/102510153/22d76a78-0d1a-4c97-8246-6bc942231bc5)
 ![Screenshot (577)](https://github.com/vishaljaiswar888/dotnet-vehicle-service-system/assets/102510153/e5b5184d-9499-4f87-a367-696d9ed56f3a)
-![Screenshot (523)](https://github.com/vishaljaiswar888/dotnet-vehicle-service-system/assets/102510153/2984579a-be3b-4c4e-aa3e-087f783cc10b)
 ![Screenshot (561)](https://github.com/vishaljaiswar888/dotnet-vehicle-service-system/assets/102510153/b17d19e8-4ec5-4674-b0a8-e10a4b570398)
 ![Screenshot (562)](https://github.com/vishaljaiswar888/dotnet-vehicle-service-system/assets/102510153/d2f83a8b-dcd0-4faf-9dbc-8b5e4e76372e)
 ![Screenshot (563)](https://github.com/vishaljaiswar888/dotnet-vehicle-service-system/assets/102510153/d6a1b027-302f-4756-8fe9-eeaaad569f50)
